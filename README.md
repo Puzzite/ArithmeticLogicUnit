@@ -7,8 +7,9 @@ The ***ALU (Arithmetic Logic Unit)*** is a component of computer hardware that r
 This ALU has been designed to perform 64-bit operations. It will take two 64-bit input values, along with a 4 bit selection input to decide what operation will be performed.
 
 This is a table that demonstrates what operations will be performed based on the operation selection value.
-                          <img width="817" alt="Screenshot 2024-11-29 at 4 32 16 PM" src="https://github.com/user-attachments/assets/bf69bb24-cf81-4fb2-b5e9-34a3ef311b65">
-
+<p align="center">
+<img width="817" alt="Screenshot 2024-11-29 at 4 32 16 PM" src="https://github.com/user-attachments/assets/bf69bb24-cf81-4fb2-b5e9-34a3ef311b65">
+</p>
 ## Features of this ALU
 
 ### Transfer Reg A
