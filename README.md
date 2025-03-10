@@ -13,36 +13,40 @@ This is a table that demonstrates what operations will be performed based on the
 
 ### Transfer Reg A
 
-  This will simply print the current value of register A
+  - This will simply print the current value of register A
 
 ### Increment Reg A
 
-  This will increment A by 1, it will also account for carry.
+  - This will increment A by 1, it will also account for carry.
 
 ### Decrement Reg A
 
-  This will decrement register A by 1.
+  - This will decrement register A by 1.
 
 ### Perform Addition
 
-  This will perform addition between register A and register B. 
+  - This will perform addition between register A and register B. 
 
 ### Negate Reg A
 
-  This will logically negate the value of the A register: NOT(A).
+  - This will logically negate the value of the A register: NOT(A).
 
 ### Perform AND operation between A and B registers
 
-  This will logically AND the value of the A register and B register.
+  - This will logically AND the value of the A register and B register.
 
 ### Perform OR operation between A and B registers
 
-  This will logically OR the values of the A register and B register.
+  - This will logically OR the values of the A register and B register.
 
 ### Perform XOR operation between A and B registers
 
-  This will logically XOR the values of the A register and B register.
+  - This will logically XOR the values of the A register and B register.
 
 ### Perform Arithmetic Shift (Left or Right)
 
+  - This will perform arithmetic shifting.
+
 ### Perform Logical Shift (Left or Right)
+
+  - This will perform logical shifting.
