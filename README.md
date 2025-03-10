@@ -1,3 +1,4 @@
+<p style="text-align: center;">
 # Arithmetic Logic Unit
 
 The ***ALU (Arithmetic Logic Unit)*** is a component of computer hardware that resides in the CPU and performs all arithmetical and logical operations.
@@ -50,3 +51,4 @@ This is a table that demonstrates what operations will be performed based on the
 ### Perform Logical Shift (Left or Right)
 
   - This will perform logical shifting.
+</p>
